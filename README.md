@@ -41,7 +41,7 @@ Python 기본 프로그래밍 내용 정리
 
 ### Python Package Manager
 
-    Anaconda
+ * Anaconda
 
 ### IDE
 
