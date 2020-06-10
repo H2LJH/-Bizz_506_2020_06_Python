@@ -26,11 +26,13 @@ Python 기본 프로그래밍 내용 정리
 
 ### Python Package Manager
 
-Anaconda
 
-    Give examples
+
+    Anaconda
 
 ### IDE
 
- Pycharm
- Jupyter notebook
+ 
+    Pycharm
+ 
+    Jupyter notebook
