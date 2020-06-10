@@ -4,9 +4,9 @@ Python 기본 프로그래밍 내용 정리
 
 ## 2. Developer Enviroment
 
- - Language : Python 3.7
+  Language : Python 3.7
  
- - IDE Tool : JupyterNotebook
+  IDE Tool : JupyterNotebook
 
 ## 3. Contents
 
