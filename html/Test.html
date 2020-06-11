@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>첫 웹 디자인</title>
+
+	<style type="text/css">
+		#div1 {
+				width:  300px;
+				height: 300px;
+				background-color : mediumseagreen;
+				color : white;
+				font-weight   : bold;
+				text-align    : center;
+				line-height   : 300px;
+				border        : 5px solid orange;
+				border-radius : 5px;
+				margin: 15px;
+			}
+		span{
+				display: inline-block;
+				border: 1px solid black;
+				font-size: 15px;
+				color: black
+	    	 }
+	   .class_even{
+		   			background-color: yellow;
+		   		  }
+
+
+	</style>
+</head>
+<body>
+	<!-- 선택자 
+		HTML의 tag를 선택
+		1. 전체 선택자   -> 모든 tag 선택         ex) *{디자인 옵션}
+		2. 태그 선택자   -> 해당 tag 모두 선택    ex) 태그먕{디자인 옵션} -> div{}, span{}
+		3. 아이디 선택자 -> 유니크하게 하나만 선택 ex) #ex{디자인 옵션}
+		4. 클래스 선택자 -> 복수 선택자           ex) .클래스이름{디자인 옵션}			
+		5. 자식 선택자   ->
+		6. 자손 선택자   ->
+		7. 형제 선택자   ->
+	-->
+
+	<div id = "div1"> 
+		ABC
+	</div>
+
+	<div>
+		<span class ="class_even">JAVA</span>
+		<span class ="class_even">JavaScript</span>
+		<span>Python</span>
+		<span>C++</span>
+
+
+	</div>
+
+
+
+</body>
+</html>
