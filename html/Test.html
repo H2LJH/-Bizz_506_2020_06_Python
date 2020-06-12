@@ -2,7 +2,17 @@
 <html>
 <head>
 	<title>첫 웹 디자인</title>
-
+	
+	<!-- 선택자 
+		HTML의 tag를 선택
+		1. 전체 선택자   -> 모든 tag 선택         ex) *{디자인 옵션}
+		2. 태그 선택자   -> 해당 tag 모두 선택    ex) 태그명{디자인 옵션} -> div{}, span{}
+		3. 아이디 선택자 -> 유니크하게 하나만 선택 ex) #ex{디자인 옵션}
+		4. 클래스 선택자 -> 복수 선택자           ex) .클래스이름{디자인 옵션}			
+		5. 자식 선택자   -> 부모->자식            ex) #div1 > span (id가 div1인 바로 하위에오는 자식태그 span 만 선택)
+		6. 자손 선택자   -> 조상 자손들..			ex) #div1 span (id가 div1인 내에 있는 모든 태그 중에 span 태그만 전부)
+		7. 형제 선택자   -> +형제, ~형제
+	-->
 	<style type="text/css">
 		#div1 {
 				width:  300px;
@@ -30,16 +40,6 @@
 	</style>
 </head>
 <body>
-	<!-- 선택자 
-		HTML의 tag를 선택
-		1. 전체 선택자   -> 모든 tag 선택         ex) *{디자인 옵션}
-		2. 태그 선택자   -> 해당 tag 모두 선택    ex) 태그먕{디자인 옵션} -> div{}, span{}
-		3. 아이디 선택자 -> 유니크하게 하나만 선택 ex) #ex{디자인 옵션}
-		4. 클래스 선택자 -> 복수 선택자           ex) .클래스이름{디자인 옵션}			
-		5. 자식 선택자   ->
-		6. 자손 선택자   ->
-		7. 형제 선택자   ->
-	-->
 
 	<div id = "div1"> 
 		ABC
@@ -50,8 +50,17 @@
 		<span class ="class_even">JavaScript</span>
 		<span>Python</span>
 		<span>C++</span>
+	</div>
 
-
+	<div id = "div5">
+		<div></div>
+		<div>
+			<ul>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
 	</div>
 
 
