@@ -21,3 +21,4 @@ print(title.text)
 print('=====================')
 print(body.text.strip()) # strip 좌우 여백없애는 함수
 
+# /robots.txt <- 사이트별 크롤링 허용범위
