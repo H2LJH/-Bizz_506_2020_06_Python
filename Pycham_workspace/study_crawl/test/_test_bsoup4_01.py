@@ -1,11 +1,5 @@
 # beautifulsoup4 import
-# 외부 모듈 설치
-# beautifulsoup4
-# matplotlib
-# numpy
-# panda
-# selenium
-# requets
+
 
 import requests
 from bs4 import BeautifulSoup
