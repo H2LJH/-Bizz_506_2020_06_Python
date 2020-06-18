@@ -1,50 +1,113 @@
-# 1. Introduction
+# Project Title
 
-Python 기본 프로그래밍 내용 정리
+# Education Python Basic book:heart_eyes:
 
-## 2. Developer Enviroment
+  Python 기본 프로그래밍 언어 입문자를 위한 기본 내용
+  
+## Developer Environment
 
- - Language : Python 3.7
- 
- - IDE Tool : JupyterNotebook
 
-## 3. Contents
+This initially appeared on
+[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
+I can no longer open that page as there are too many comments, I have
+moved it here.
 
-  - chapter 01   주피터 노트북 사용법
-  
-  - chapter 02-1 변수의 이해 및 기본 데이터 타입
-  
-  - chapter 02-2 문자열 타입의 이해
-  
-  - chapter 02-3 컬렉션 타입의 이해(list, tuple)
-  
-  - chapter 02-4 컬렉션 타입의 이해(dict, set)
-  
-  - chapter 03-1 조건문의 이해(if)
-  
-  - chapter 03-2 반복문의 이해(while)
-  
-  - chapter 03-3 반복문의 이해(for)
-  
-  - chapter 04-1 함수의 이해
-  
-  - chapter 04-2 lambda 함수의 이해
-  
-  - chapter 05   모듈의 이해 및 모듈 import 방법
-  
-  - chapter 06   클래스와 객체의 이해
-  
-  - chapter 07   정규표현식과 re모듈
-  
-  - chapter 08   예외처리
-  
+## Summary
 
-### Python Package Manager
+  - [Getting Started](#getting-started)
+  - [Runing the tests](#running-the-tests)
+  - [Deployment](#deployment)
+  - [Built With](#built-with)
+  - [Contributing](#contributing)
+  - [Versioning](#versioning)
+  - [Authors](#authors)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
- * Anaconda
+## Getting Started
 
-### IDE
+These instructions will get you a copy of the project up and running on
+your local machine for development and testing purposes. See deployment
+for notes on how to deploy the project on a live system.
 
-* Pycharm
+### Prerequisites
 
-* Jupyter notebook
+What things you need to install the software and how to install them
+
+    Give examples
+
+### Installing
+
+A step by step series of examples that tell you how to get a development
+env running
+
+Say what the step will be
+
+    Give the example
+
+And repeat
+
+    until finished
+
+End with an example of getting some data out of the system or using it
+for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+    Give an example
+
+### And coding style tests
+
+Explain what these tests test and why
+
+    Give an example
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
+    for the Code of Conduct
+  - [Creative Commons](https://creativecommons.org/) - Used to choose
+    the license
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
+of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions
+available, see the [tags on this
+repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+
+## Authors
+
+  - **Billie Thompson** - *Provided README Template* -
+    [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of
+[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
+who participated in this project.
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+details
+
+## Acknowledgments
+
+  - Hat tip to anyone whose code was used
+  - Inspiration
+  - etc
+
