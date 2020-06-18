@@ -10,3 +10,6 @@ IDE/
 
 #instagram_macro
 Pycham_workspace/instagram_macro
+
+#MongoDB install exe
+*.msi
