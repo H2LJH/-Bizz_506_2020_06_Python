@@ -7,4 +7,6 @@ IDE/
 # pycham
 .idea
 .pytest_cache
-Pycham_workspace
+
+#instagram_macro
+Pycham_workspace/instagram_macro
