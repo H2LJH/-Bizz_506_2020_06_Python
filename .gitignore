@@ -131,3 +131,10 @@ dmypy.json
 # Python Crawling
 Pycham_workspace 
 
+# IDE
+IDE
+
+# install exe
+*.msi
+*.exe
+NoSQL
