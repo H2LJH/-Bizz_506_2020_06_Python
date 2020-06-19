@@ -131,6 +131,9 @@ dmypy.json
 # Python Crawling
 Pycham_workspace 
 
+#.idea
+.idea
+
 # IDE
 IDE
 
